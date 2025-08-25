@@ -10,6 +10,8 @@ Interface de Usuário: Jetpack Compose
 API: SpeechRecognizer (API nativa do Android)
 
 Integrantes do Grupo
+
+
 João Vitor Soares de Moraes
 
 Lucas Henrique Toledo Bispo
